@@ -27,7 +27,7 @@
                         <input class="form-control" type="text" name="dui" placeholder="Ingrese su DUI">
                     </div>
                     <center>
-                        <button class="btn btn-primary mb-3"> <i class="fa fa-location-arrow"></i> Enviar </button>
+                        <button class="btn btn-primary mb-3"> <i class="fa fa-location-arrow"></i> Consultar </button>
                     </center>
                 </form>
             </div>
