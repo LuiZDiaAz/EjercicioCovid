@@ -4,12 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.Luis.unab</groupId>
-  <artifactId>EjercicioCovidClass</artifactId>
+  <groupId>com.sistemaAeropuerto.unab</groupId>
+  <artifactId>EjecicioCovidClase</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>EjercicioCovidClass Maven Webapp</name>
+  <name>EjecicioCovidClase Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -44,7 +44,7 @@
   </dependencies>
 
   <build>
-    <finalName>EjercicioCovidClass</finalName>
+    <finalName>EjecicioCovidClase</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>

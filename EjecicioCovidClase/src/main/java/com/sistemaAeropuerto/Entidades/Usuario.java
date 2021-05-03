@@ -1,11 +1,11 @@
-package com.Laboratorio.Entidades;
+package com.sistemaAeropuerto.Entidades;
 
-public class Usuarios {
+public class Usuario {
+
+	public int idUsuario;
+	public String nombre;
+	public String dui;
 	
-	private int idUsuario;
-	private String nombre;
-	private String dui;
-	private String beneficio;
 	public int getIdUsuario() {
 		return idUsuario;
 	}
@@ -24,10 +24,6 @@ public class Usuarios {
 	public void setDui(String dui) {
 		this.dui = dui;
 	}
-	public String getBeneficio() {
-		return beneficio;
-	}
-	public void setBeneficio(String beneficio) {
-		this.beneficio = beneficio;
-	}
+	
+	
 }
